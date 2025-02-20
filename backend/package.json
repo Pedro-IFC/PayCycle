@@ -11,15 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "backendPayCycle": "file:",
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "express-query-int": "^3.0.0",
     "lodash": "^4.17.21",
-    "mongoose": "^8.10.1",
     "mongoose-paginate": "^5.0.3",
+    "node-restful": "^0.2.6",
     "pm2": "^5.4.3"
   },
   "devDependencies": {
+    "mongoose": "^6.13.8",
     "nodemon": "^3.1.9"
   }
 }
